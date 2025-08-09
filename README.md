@@ -2,42 +2,17 @@
 
 This project uses **Power BI** to explore the job market landscape for key tech roles, uncovering trends in demand, skills, and market growth.
 
+## 🖥 Dashboard Overview
 
+The **Job Market Analysis** dashboard is designed to provide a clear view of the tech job landscape through interactive visualizations, including:
 
-## 🔍 Key Insights
-
-- **High Competition for Top Roles**
-  - *Software Engineer* roles have the highest number of applicants.
-  - *Data Engineer* follows closely in demand and competition.
-
-- **Consistent Growth**
-  - Job postings have shown a steady upward trend year-over-year across all roles.
-
-- **Role-Specific Skills**
-  - **Developers** → `SQL`
-  - **Data Engineers** → `Python`, `AWS`
-  - **Business Analysts** → `Agile`, `Excel`
-
-- **Geographic Trends**
-  - The **United States** dominates job postings.
-  - Top cities: **Chicago, IL** and **New York, NY**.
-
-- **Industry Leaders**
-  - The *Internet* industry is the top hiring sector across multiple roles.
-
-
-
-## 📈 Role Growth Overview
-
-| Role                | Key Insight |
-|---------------------|-------------|
-| **Software Engineer** | Highest job volume + strong YoY growth |
-| **Data Engineer**     | Largest YoY growth among technical roles |
-| **Business Analyst**  | Robust market with double-digit YoY growth |
-| **Data Scientist**    | Significant expansion in demand |
-| **Developer**         | Steady rise in demand |
-
-
+- **Total Applicants & Jobs KPIs** – Displays total job postings, applicants, companies, and average applicants per company.
+- **Job Postings Trend** – Year-over-year job posting patterns across all roles.
+- **Top Job Titles** – Ranking of roles by total jobs and applicants.
+- **Role-Level Insights** – YoY growth, company count, and applicant trends for selected positions.
+- **Top Skills by Role** – Highlights most in-demand skills for each job category.
+- **Location & Industry Analysis** – Shows top hiring regions and leading sectors.
+- **Interactive Filters** – Filter by job position, year, and job type for targeted analysis.
 
 ## 📂 Project Details
 - **Tool Used**: Power BI
