@@ -43,6 +43,6 @@ This project uses **Power BI** to explore the job market landscape for key tech 
 - **Tool Used**: Power BI
 - **Data Points Covered**: Job postings, applicants, skills, industries, locations
 - **Analysis Focus**: Demand trends, skill requirements, role growth
-- **Live Link**: https://app.powerbi.com/view?r=eyJrIjoiMGUzYjk4MWMtNTlmOC00ODM3LWFkYjctNzg2YTM1M2U4NTgxIiwidCI6IjUxZDFmNzA1LTgxN2QtNGI3Mi04ZjdkLTI1YjNjYjU4OGQ4NSIsImMiOjEwfQ%3D%3D
+- **Live Link**: https://tinyurl.com/4ct66kem
 
 
