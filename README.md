@@ -1,4 +1,4 @@
-# Data Optimizer's Job Market Analysis with Power BI
+# Data Optimizer's Job Market Analysis
 
 Job market analysis is the process of examining employment trends, job postings, applicant volumes, required skills, company participation, and industry dynamics to understand the demand, competition, and growth in specific roles and sectors. It helps identify emerging opportunities, skill gaps, and market shifts, particularly in fields like data science, engineering, and analytics.
 
@@ -21,8 +21,6 @@ This page provides a high-level summary of the job market:
 - **Job Position Level by Total Jobs**
 - **Top Job Titles Table**
 
-![Overview Dashboard](dashboard_overview.png)
-
 ### Specific Job Analysis Page
 
 This page focuses on a selected job:
@@ -35,8 +33,6 @@ This page focuses on a selected job:
 - **Top Company**
 - **Top Location**
 - **Top Industry**
-
-![Specific Job Analysis](specific_job_analysis.png)
 
 - **Live Link**: https://tinyurl.com/4ct66kem
 
