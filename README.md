@@ -37,4 +37,17 @@ This page focuses on a selected job:
 
 **Live Link**: https://tinyurl.com/ynbv9cnb
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Job-Market-Analysis/main/Job_Market_Analysis_page-0001.jpg" alt="Job Market Analysis - Page 1" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Job-Market-Analysis/main/Job_Market_Analysis_page-0002.jpg" alt="Job Market Analysis - Page 2" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nomayer-masum/Job-Market-Analysis/main/Job_Market_Analysis_page-0003.jpg" alt="Job Market Analysis - Page 3" width="800"/>
+</p>
+
+
 
